@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3757
+
+This script works with racket.vim (and scribble.vim if you have it [vimscript #3756]) to automatically populate the syntax keywords lists
+
+Issues:
+* Currently, I can't get this to run in an autocommand, so I have it bound using control-F4
+
+* Anyone who can get this to work with scribble.vim, without vim SEGVing -- please contact me.
